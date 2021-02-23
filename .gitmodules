@@ -1,0 +1,3 @@
+[submodule "libCOD"]
+	path = libCOD
+	url = https://github.com/jsamperevazquez/libCOD
